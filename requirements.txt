@@ -1,0 +1,7 @@
+pandas
+numpy
+scipy
+requests
+nltk==3.6.2
+requests
+joblib
