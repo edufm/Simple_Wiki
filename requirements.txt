@@ -2,6 +2,6 @@ pandas
 numpy
 scipy
 requests
-nltk==3.6.2
+nltk==3.9
 requests
 joblib
